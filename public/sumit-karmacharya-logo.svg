@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="104" viewBox="0 0 620 104" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Sumit Karmacharya</title>
+  <desc id="desc">Yellow rising chart and spark icon beside the Sumit Karmacharya wordmark.</desc>
+  <rect x="10" y="10" width="84" height="84" rx="26" fill="#173b33"/>
+  <path d="M28 75h48" stroke="#FFE744" stroke-width="3.5" stroke-linecap="round"/>
+  <rect x="30" y="59" width="8" height="16" rx="2.5" fill="#FFE744"/>
+  <rect x="47" y="48" width="8" height="27" rx="2.5" fill="#FFE744"/>
+  <rect x="64" y="37" width="8" height="38" rx="2.5" fill="#FFE744"/>
+  <path d="m29 52 17-13 12 5 17-16" stroke="#FFE744" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M65 28h10v10" stroke="#FFE744" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="m77 63 2.3 5.2 5.2 2.3-5.2 2.3-2.3 5.2-2.3-5.2-5.2-2.3 5.2-2.3 2.3-5.2Z" fill="#FFE744"/>
+  <text x="116" y="67" fill="#142721" font-family="Bodoni MT, Georgia, Times New Roman, serif" font-size="42" font-weight="700" letter-spacing="-1.7">Sumit Karmacharya</text>
+</svg>

@@ -1,0 +1,9 @@
+{
+  "name": "ai-marketing-consultant-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Professional AI marketing consultant website",
+  "scripts": {
+    "start": "node server.mjs"
+  }
+}
