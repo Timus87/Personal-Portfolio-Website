@@ -12,7 +12,7 @@ The server serves static files and directory index pages, so URLs such as `/abou
 
 ## Deploy
 
-Deploy the files to any static hosting provider that supports clean directory URLs (for example, a Node host can run `node server.mjs`; static hosts can serve the same files directly). Set the production domain in canonical URLs, Open Graph URLs, `robots.txt` and `sitemap.xml`. If hosting statically, configure unknown routes to return a 404 page.
+The `vercel.json` configuration selects Vercel's static “Other” preset and serves the repository root, where `index.html` lives. This is important because the `public/` folder is only for image assets and does not contain the homepage. Push changes to the connected deployment branch to trigger a new deployment. Set the production domain in canonical URLs, Open Graph URLs, `robots.txt` and `sitemap.xml`.
 
 ## Personalize before launch
 
